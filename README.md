@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging **data science** a
 
 ---
 
-<img src="https://raw.githubusercontent.com/jsebastian-cc/jsebastian-cc/refs/heads/main/image_readme.webp" alt="AI and Data Science" width="800" />
+<img src="https://raw.githubusercontent.com/jsebastian-cc/jsebastian-cc/refs/heads/main/image_readme.webp" alt="AI and Data Science" width="650" />
 
 ---
 
@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging **data science** a
 
 ### 🌟 Featured Projects:
 1. **[Robust Clustering for Time Series](#)**: Innovative methodologies for grouping large-scale temporal data.  
-2. **[Climate Crisis Analysis](#)**: Research on global fisheries impacted by climate change.  
 3. **[Web Scraping and Analysis](#)**: Projects using R for data extraction and statistical analysis.
 
 ---
