@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging **data science** a
 
 ---
 
-![AI and Data Science](https://via.placeholder.com/800x300?text=Your+AI+and+Data+Science+Banner)  
+![AI and Data Science](https://raw.githubusercontent.com/jsebastian-cc/jsebastian-cc/refs/heads/main/image_readme.webp)  
 
 ---
 
