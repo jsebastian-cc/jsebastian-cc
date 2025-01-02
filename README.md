@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging **data science** a
 ---
 
 ![AI and Data Science](https://via.placeholder.com/800x300?text=Your+AI+and+Data+Science+Banner)  
-*(Replace the image above with one that reflects your work in AI and Data Science)*
 
 ---
 
